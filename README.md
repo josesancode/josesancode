@@ -122,19 +122,18 @@ I want to learn new technologies, gain a deeper understanding of application arc
 
 > 🔍 Feel free to explore my repositories!
 
----
 
-## 📊 GitHub Statistics
+<!--## 📊 GitHub Statistics
 
 <div align="center">
 
 <!-- GitHub Stats: puedes activar estos servicios cuando quieras -->
 
-![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+<!--![Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
+</div> -->
 
 ---
 
